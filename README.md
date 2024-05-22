@@ -9,3 +9,5 @@ Make transactions on kyberswap beta to buy AVAX
 Make transactions on Quickswap beta to buy MATIC
 
 Supply AVAX to BenQi liquid staking
+
+Borrow sAVAX from BenQi liquid staking
