@@ -15,3 +15,5 @@ Borrow sAVAX from BenQi liquid staking
 Supply USDC on Arbitrum network to Equilibria
 
 Supply Avax on BenQi Liquid market
+
+Borrow sAVAX from BenQi Liquid market and sell it to USDC to use somewhere else, if needed
