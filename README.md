@@ -12,6 +12,8 @@ Supply AVAX to BenQi liquid staking
 
 Borrow sAVAX from BenQi liquid staking
 
+Sell borrowed sAVAX on Kyberswap
+
 Supply USDC on Arbitrum network to Equilibria
 
 Supply Avax on BenQi Liquid market
